@@ -63,7 +63,7 @@ The battery layer is capable to mount 2 18650 batteries.
 
 [MIT License](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2015 jarp80
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
