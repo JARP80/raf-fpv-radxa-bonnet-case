@@ -59,6 +59,8 @@ The battery layer is capable to mount 2 18650 batteries.
 
 - [Screws](https://grabcad.com/library/metric-screws-from-m2-x-2-5-to-m2-x-20-1) Thanks to [zakaria mohammed](https://grabcad.com/zakaria.mohammed-5)
 
+- [Switch](https://grabcad.com/library/mini-on-off-rocker-switch-2-pins-1) Thanks to [Pamela Solis](https://grabcad.com/pennel.patrice-1)
+
 ## MIT License 
 
 [MIT License](https://choosealicense.com/licenses/mit/)
