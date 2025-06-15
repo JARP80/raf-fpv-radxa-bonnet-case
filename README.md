@@ -61,6 +61,9 @@ The battery layer is capable to mount 2 18650 batteries.
 
 - [Switch](https://grabcad.com/library/mini-on-off-rocker-switch-2-pins-1) Thanks to [Pamela Solis](https://grabcad.com/pennel.patrice-1)
 
+The swith I brought is bigger than the freecad resouce. 
+![Switch](./resources/switchOnOff.png "Switch")
+
 ## MIT License 
 
 [MIT License](https://choosealicense.com/licenses/mit/)
